@@ -42,6 +42,7 @@ Run Python code to load data into SQL database
 Open Amazon_sales_Analysis.sql
 
 Answer Business Questions using SQL Queries like
+- <a href="https://github.com/krish52-git/AMAZON-SALES-ANALYSYS-USING-PYTHON-/blob/main/Amazon_sales_sql_queries.sql"> sql business questions and queries
 
 Connect the SQL Database to Power BI
 
@@ -53,6 +54,12 @@ Create interactive dashboard in Power BI
 Create Project Report and Presentation
 
 Create project report
+
+👤 About Me
+Krishnakumar M — Aspiring Data Analyst based in Coimbatore, Tamil Nadu.
+Passionate about turning raw data into clear, meaningful insights. Currently seeking entry-level Data Analyst opportunities.
+🔗 LinkedIn
+💻 GitHub
 
 
 
