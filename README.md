@@ -58,8 +58,11 @@ Create project report
 👤 About Me
 Krishnakumar M — Aspiring Data Analyst based in Coimbatore, Tamil Nadu.
 Passionate about turning raw data into clear, meaningful insights. Currently seeking entry-level Data Analyst opportunities.
-🔗 LinkedIn
-💻 GitHub
+🔗 LinkedIn:
+https://www.linkedin.com/in/krishna-kumar-m-6328b3249
+💻 GitHub:
+https://github.com/krish52-git
+
 
 
 
